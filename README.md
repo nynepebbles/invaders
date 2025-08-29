@@ -1,10 +1,10 @@
-# Curses Invaders 👾
+# Invaders 👾
 
 <p align="center">
   <img src="https://github.com/nynepebbles/invaders/blob/main/etc/invaders.png?raw=true" />
 </p>
 
-**Curses Invaders** is a clone of the classic arcade game *Space Invaders*, built to run in a command-line terminal. It is written in C++ and utilizes the `ncurses` library for rendering and input. The game recreates the original's core mechanics, featuring a player-controlled ship, descending waves of alien enemies, and projectile-based combat, with all graphics rendered using ASCII art.
+**Invaders** is a clone of the classic arcade game *Space Invaders*, built to run in a command-line terminal. It is written in C++ and utilizes the `ncurses` library for rendering and input. The game recreates the original's core mechanics, featuring a player-controlled ship, descending waves of alien enemies, and projectile-based combat, with all graphics rendered using ASCII art.
 
 ## How to Play
 
@@ -17,7 +17,7 @@ Controls are intuitive and designed for quick, responsive gameplay:
 
 ## Installation & Launch
 
-To get **Curses Invaders** running, you'll need a C++17 compatible compiler, the `ncurses` library, and `xmake` for building.
+To get it running, you'll need a C++17 compatible compiler, the `ncurses` library, and `xmake` for building.
 
 ### 1. Clone the Repository
 
