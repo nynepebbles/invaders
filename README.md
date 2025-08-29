@@ -52,4 +52,4 @@ For those curious about the implementation, key components include:
 * **`Program`**: Manages the main game loop, state, rendering, and input.
 * **`Entity`**: A base class for all in-game objects (ship, aliens, bullets) with position, velocity, and health.
 * **`Sprite`**: Handles loading and rendering of ASCII art.
-* **`CollisionBuffer`**: An efficient grid-based system for detecting in-game collisions.
+* **`CollisionBuffer`**: A grid-based system for detecting in-game collisions.
