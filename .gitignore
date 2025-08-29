@@ -1,0 +1,7 @@
+.compile_commands.json
+.vimspector.json
+.cache
+.xmake
+
+build/
+temp/

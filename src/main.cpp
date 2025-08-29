@@ -20,7 +20,6 @@ std::filesystem::path get_sprite_path()
 
 int main()
 {
-  // sprites
   try {
     auto path = get_sprite_path();
     auto program = Program{path};
